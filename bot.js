@@ -80,7 +80,7 @@ function onMessageHandler(target, context, msg, self) {
 
   if (
     context.username === "friendlytm8" ||
-    context.username === "peppermintpoot"
+    context.mod
   ) {
     if (commandName === "!death") {
       deathCounter.addDeath();

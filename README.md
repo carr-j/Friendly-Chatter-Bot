@@ -1,4 +1,5 @@
 # Friendly Chatter Bot
+#### Developed by FriendlyDev on Twitch
 ### This is a Twitch Chat bot that tracks and stores the number of deaths.
 
 | Command | Function |
